@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <title>Deal or No Deal</title>
     <script src="script.js"></script>
+    <link href="styles.css" rel="stylesheet" type="text/css">
 </head>
-<body onload="Randomize()">
+<body onload="Load()">
 <h1>DEAL OR NO DEAL</h1>
 <div id="divUserPrompt"></div>
+<div id="divDealerPrompt"></div>
 <table>
     <tr>
         <td></td>
@@ -51,6 +53,9 @@
     </tr>
 </table>
 <br>
+<input id="btnEnter" type="button" value="Enter" onclick="Play()" disabled = disabled><input id="btnChooseCase" type="button" value="Choose Case" onclick="ChooseCase()"><input id="btnAccept" type="button" value="Accept" onclick="Accept()" disabled="disabled"><input id="btnDecline" type="button" value="Decline" onclick="Decline()" disabled="disabled">
+Your case number is: <div id="divCaseNumber"></div>
+<br>
 <table width="200">
     <tr><td><div id="0">$.01</div></td><td><div id="13">$1000</div></td></tr>
     <tr><td><div id="1">$1</div></td><td><div id="14">$5000</div></td></tr>
@@ -66,8 +71,6 @@
     <tr><td><div id="11">$500</div></td><td><div id="24">$750000</div></td></tr>
     <tr><td><div id="12">$750</div></td><td><div id="25">$1000000</div></td></tr>
 </table>
-<br>
-Your case number is: <div id="divCaseNumber"></div>
 
 </body>
 </html>

@@ -23,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gamepage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gamepage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gamepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="17">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="157" column="1" lean-forward="false" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
                 <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -47,6 +47,13 @@
                 <element signature="n#!!block;n#Enable#0" expanded="false" />
                 <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
                 <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+                <element signature="n#!!block;n#Load#0" expanded="false" />
+                <element signature="n#!!block;n#findIndex#0" expanded="false" />
+                <element signature="n#!!block;n#Play#0" expanded="false" />
+                <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+                <element signature="n#!!block;n#Deal#0" expanded="false" />
+                <element signature="n#!!block;n#Accept#0" expanded="false" />
+                <element signature="n#!!block;n#Decline#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -56,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -93,23 +100,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -122,30 +118,11 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="FinalProject">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign13_JustinCall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign4_JustinCall" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -236,22 +213,30 @@
       <workItem from="1477937253144" duration="1796000" />
       <workItem from="1477939092845" duration="445000" />
       <workItem from="1477949743781" duration="397000" />
+      <workItem from="1480380992008" duration="1916000" />
+      <workItem from="1480382943946" duration="1788000" />
+      <workItem from="1480384828552" duration="1851000" />
+      <workItem from="1480386778701" duration="1908000" />
+      <workItem from="1480388909007" duration="1784000" />
+      <workItem from="1480390951244" duration="1465000" />
+      <workItem from="1480394525836" duration="39000" />
+      <workItem from="1480395405143" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14737000" />
+    <option name="totallyTimeSpent" value="25782000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5007342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -263,6 +248,27 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5007342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -276,22 +282,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2669">
+          <caret line="157" column="1" lean-forward="false" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -301,6 +309,13 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -308,23 +323,23 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2669">
+          <caret line="157" column="1" lean-forward="false" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -334,6 +349,13 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -341,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -349,7 +371,327 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="31" lean-forward="false" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="8" lean-forward="false" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <element signature="n#!!block;n#Get#0" expanded="false" />
+            <element signature="n#!!block;n#RandInt#0" expanded="false" />
+            <element signature="n#!!block;n#Fade#0" expanded="false" />
+            <element signature="n#!!block;n#Disable#0" expanded="false" />
+            <element signature="n#!!block;n#Enable#0" expanded="false" />
+            <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
+            <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -357,7 +699,7 @@
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
-          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+          <caret line="86" column="22" lean-forward="false" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -367,6 +709,13 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -374,7 +723,7 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -382,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -390,7 +739,7 @@
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -400,6 +749,13 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -407,7 +763,7 @@
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -415,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -423,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -433,6 +789,13 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -440,7 +803,7 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -449,7 +812,7 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -458,33 +821,17 @@
     <entry file="file://$PROJECT_DIR$/gamepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css" />
     <entry file="file://$PROJECT_DIR$/.idea/gamepage.html" />
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gamepage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="157" column="1" lean-forward="false" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
             <element signature="n#!!block;n#Get#0" expanded="false" />
@@ -494,7 +841,30 @@
             <element signature="n#!!block;n#Enable#0" expanded="false" />
             <element signature="n#!!block;n#GetSuitcase#0" expanded="false" />
             <element signature="n#!!block;n#Shuffle#0" expanded="false" />
+            <element signature="n#!!block;n#Load#0" expanded="false" />
+            <element signature="n#!!block;n#findIndex#0" expanded="false" />
+            <element signature="n#!!block;n#Play#0" expanded="false" />
+            <element signature="n#!!block;n#ChooseCase#0" expanded="false" />
+            <element signature="n#!!block;n#Deal#0" expanded="false" />
+            <element signature="n#!!block;n#Accept#0" expanded="false" />
+            <element signature="n#!!block;n#Decline#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
